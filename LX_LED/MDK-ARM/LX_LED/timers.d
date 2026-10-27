@@ -1,0 +1,15 @@
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+lx_led\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lx_led\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+lx_led\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+lx_led\timers.o: ../Core/Inc/FreeRTOSConfig.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+lx_led\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

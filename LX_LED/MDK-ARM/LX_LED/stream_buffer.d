@@ -1,0 +1,14 @@
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+lx_led\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+lx_led\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lx_led\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+lx_led\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+lx_led\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
